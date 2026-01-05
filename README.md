@@ -34,8 +34,7 @@ Calculates "Progressive Passes" based on specific rules:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/Rodri-Analytics-Dashboard.git](https://github.com/YourUsername/Rodri-Analytics-Dashboard.git)
-    ```
+git clone https://github.com/abdelati88/Rodri-comeback-Pass-Analysis.git    ```
 2.  Install dependencies:
     ```bash
     pip install -r requirements.txt
